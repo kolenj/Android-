@@ -14,7 +14,8 @@
 2. [最简单的Dagger2入门教程](http://blog.csdn.net/lisdye2/article/details/51942511)
 
 ##### Butter Knife
-1.[深入理解 ButterKnife，让你的程序学会写代码](https://zhuanlan.zhihu.com/p/21628698)
+1. [深入理解 ButterKnife，让你的程序学会写代码](https://zhuanlan.zhihu.com/p/21628698)
+
 
 ##### 整合使用
 1. [Android MVP+Retrofit+RxJava 简单实例](http://wuxiaolong.me/2015/09/23/AndroidMVPSample/)
