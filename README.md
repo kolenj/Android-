@@ -10,8 +10,8 @@
 2. [Retrofit2 源码解析](http://bxbxbai.github.io/2015/12/13/retrofit2/)
 
 ##### Dagger2
-1.[Android：dagger2让你爱不释手-基础依赖注入框架篇](http://www.jianshu.com/p/cd2c1c9f68d4)
-2.[最简单的Dagger2入门教程](http://blog.csdn.net/lisdye2/article/details/51942511)
+1. [Android：dagger2让你爱不释手-基础依赖注入框架篇](http://www.jianshu.com/p/cd2c1c9f68d4)
+2. [最简单的Dagger2入门教程](http://blog.csdn.net/lisdye2/article/details/51942511)
 
 ##### Butter Knife
 1.[深入理解 ButterKnife，让你的程序学会写代码](https://zhuanlan.zhihu.com/p/21628698)
